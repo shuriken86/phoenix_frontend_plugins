@@ -1,4 +1,4 @@
-import logger from 'components/logger/logger';
+import logger from '../../app/components/logger/logger';
 
 /**
  * Transform possibly uppercased list of names to lowercase.
