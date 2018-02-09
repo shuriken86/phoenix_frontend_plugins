@@ -1,0 +1,11 @@
+{
+    "name": "PluginSystem",
+    "version": "0.0.0",
+    "description": "temp pl",
+    "main": "./PluginSystem.js",
+    "repository": {
+        "type": "git",
+        "url": "ssh://git@github.com:shuriken86/phoenix_frontend_plugins.git"
+    },
+    "license": "MIT"
+}
